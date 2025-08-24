@@ -106,7 +106,7 @@ export function Footer() {
       <div className="border-t border-indigo-800 mt-8 pt-8 text-center">
         <p className="text-indigo-200 flex items-center justify-center">
           Made with <Heart size={16} className="mx-1 text-red-400" /> for the
-          Google Gemma 3n Impact Challenge
+          Co-Creating with GPT-5 Hackathon
         </p>
         <p className="text-indigo-300 text-sm mt-2">
           © {new Date().getFullYear()} SightGuide. All rights reserved.
